@@ -1,0 +1,3 @@
+got clone https://github.com/<k1r1ll-dv0r>/drone_manager.git
+cd drone_manager
+flutter create .
